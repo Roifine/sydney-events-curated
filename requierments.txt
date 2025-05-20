@@ -1,3 +1,5 @@
 crawl4ai
 openai
 python-dotenv
+streamlit
+python-dateutil
